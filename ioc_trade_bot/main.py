@@ -1,4 +1,4 @@
-#author: @mlkplt
+#author: @thefinega
 import requests
 import time
 import connect
